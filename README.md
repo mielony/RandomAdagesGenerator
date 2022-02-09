@@ -6,8 +6,10 @@ Here to know: JSX, Components, States, Forms - BASICS :)
 
 This is fully Ract app, no backed.
 
-How it works.
+# How it works.
+
 We start with 9 adages and can add new ones, which are stored while app is alive. Once refreshed it restes.
 
-Try it here:
+# Try it here.
+
 http://www.it-spec.com.pl/examples/react/rag/
